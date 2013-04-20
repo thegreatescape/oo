@@ -1,0 +1,4 @@
+About OO
+--------------------
+
+A clean reimplementation of the JavaFoundation and JavaWebObjects frameworks.
