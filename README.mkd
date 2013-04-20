@@ -1,4 +1,15 @@
-About OO
+About The Great Escape
 --------------------
 
 A clean reimplementation of the JavaFoundation and JavaWebObjects frameworks.
+
+TODO
+--------------------
+
+* Set up a quick website
+* Configure oo-foundation-tests to run against JavaFoundation or oo-foundation based on a configuration switch.
+* Set up a page comparing oo-foundation's current API state against JavaFoundation.
+* Set up a build server for (at least) running the tests.
+* Invite interested parties to participate.
+* Set up a mailinglist or discussion forum for team communication.
+* Incorporate Q's new and improved version of NSFoundation4J.
