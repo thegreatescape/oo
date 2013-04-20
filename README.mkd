@@ -1,4 +1,4 @@
-About OO
+About The Great Escape
 --------------------
 
 A clean reimplementation of the JavaFoundation and JavaWebObjects frameworks.
